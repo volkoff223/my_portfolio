@@ -16,9 +16,6 @@
       leading, managing and collaboration in the United States Navy.
     </p>
     <!-- ! Need to fix nav item focus -->
-    {#if 2 === 2}
-      <p>Working</p>
-    {/if}
 
     <nav class="nav hidden lg:block" aria-label="In-page jump links">
       <ul class="mt-16 w-max">
@@ -59,7 +56,7 @@
     <li class="mr-5 text-xs">
       <a
         class="block hover:text-slate-200"
-        href="https://github.com/bchiang7"
+        href="https://github.com/volkoff223"
         target="_blank"
         rel="noreferrer noopener"
         aria-label="GitHub (opens in a new tab)"
@@ -79,7 +76,7 @@
     <li class="mr-5 text-xs">
       <a
         class="block hover:text-slate-200"
-        href="https://www.linkedin.com/in/bchiang7/"
+        href="https://www.linkedin.com/in/volkoff223/"
         target="_blank"
         rel="noreferrer noopener"
         aria-label="LinkedIn (opens in a new tab)"
