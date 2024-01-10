@@ -15,7 +15,7 @@
   <div>
     <header
       class="z-10 mb-8 mt-1 text-xs font-semibold uppercase tracking-wide text-slate-500 sm:col-span-2"
-      aria-label="2018 to Present"
+      aria-label="21 Years United States Navy"
     >
       21 Years United States Navy
     </header>
@@ -29,7 +29,7 @@
           ></div>
           <header
             class="z-10 mb-2 mt-1 text-xs font-semibold uppercase tracking-wide text-slate-500 sm:col-span-2"
-            aria-label="2018 to Present"
+            aria-label="2021 to Present"
           >
             2021 — Present
           </header>
@@ -69,7 +69,7 @@
           ></div>
           <header
             class="z-10 mb-2 mt-1 text-xs font-semibold uppercase tracking-wide text-slate-500 sm:col-span-2"
-            aria-label="2018 to Present"
+            aria-label="2017 to 2021"
           >
             2017 — 2021
           </header>
@@ -109,7 +109,7 @@
           ></div>
           <header
             class="z-10 mb-2 mt-1 text-xs font-semibold uppercase tracking-wide text-slate-500 sm:col-span-2"
-            aria-label="2018 to Present"
+            aria-label="2013 to 2017"
           >
             2013 — 2017
           </header>
@@ -157,7 +157,7 @@
           ></div>
           <header
             class="z-10 mb-2 mt-1 text-xs font-semibold uppercase tracking-wide text-slate-500 sm:col-span-2"
-            aria-label="2018 to Present"
+            aria-label="2003 to 2013"
           >
             2003 — 2013
           </header>
@@ -188,31 +188,5 @@
         </div>
       </li>
     </ol>
-    <div class="mt-12">
-      <a
-        class="inline-flex items-baseline font-medium leading-tight text-slate-200 hover:text-teal-300 focus-visible:text-teal-300 group/link text-base"
-        href="/resume.pdf"
-        target="_blank"
-        rel="noreferrer noopener"
-        aria-label="View Full Résumé (opens in a new tab)"
-        ><span
-          >View Full<!-- -->
-          <span class="inline-block"
-            >Résumé<svg
-              xmlns="http://www.w3.org/2000/svg"
-              viewBox="0 0 20 20"
-              fill="currentColor"
-              class="inline-block h-4 w-4 shrink-0 transition-transform group-hover/link:-translate-y-1 group-hover/link:translate-x-1 group-focus-visible/link:-translate-y-1 group-focus-visible/link:translate-x-1 motion-reduce:transition-none ml-1 translate-y-px"
-              aria-hidden="true"
-              ><path
-                fill-rule="evenodd"
-                d="M5.22 14.78a.75.75 0 001.06 0l7.22-7.22v5.69a.75.75 0 001.5 0v-7.5a.75.75 0 00-.75-.75h-7.5a.75.75 0 000 1.5h5.69l-7.22 7.22a.75.75 0 000 1.06z"
-                clip-rule="evenodd"
-              ></path></svg
-            ></span
-          ></span
-        ></a
-      >
-    </div>
   </div>
 </section>
