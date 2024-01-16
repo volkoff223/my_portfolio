@@ -32,7 +32,7 @@
               <h3>
                 <a
                   class="inline-flex items-baseline font-medium leading-tight text-slate-200 hover:text-teal-300 focus-visible:text-teal-300 group/link text-base"
-                  href="https://63bca7cac108cb0009d80bce--boneshark.netlify.app/"
+                  href="https://boneshark.netlify.app/"
                   target="_blank"
                   rel="noreferrer noopener"
                   aria-label="Small buisness blog"
