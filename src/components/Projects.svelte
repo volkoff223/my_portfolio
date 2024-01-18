@@ -41,8 +41,7 @@
                     class="absolute -inset-x-4 -inset-y-2.5 hidden rounded md:-inset-x-6 md:-inset-y-4 lg:block"
                   ></span><span
                     >User management app
-                    <span class="inline-block"
-                      >App<svg
+                    <svg
                         xmlns="http://www.w3.org/2000/svg"
                         viewBox="0 0 20 20"
                         fill="currentColor"
@@ -69,7 +68,12 @@
                   <div
                     class="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300"
                   >
-                    Astro
+                    SvelteKit
+                  </div>
+                  <div
+                    class="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300"
+                  >
+                    PocketBase
                   </div>
                 </li>
               </ul>
