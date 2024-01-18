@@ -40,7 +40,7 @@
                   ><span
                     class="absolute -inset-x-4 -inset-y-2.5 hidden rounded md:-inset-x-6 md:-inset-y-4 lg:block"
                   ></span><span
-                    >User management app
+                    >User profile app
                     <span class="inline-block"
                       ><svg
                         xmlns="http://www.w3.org/2000/svg"
@@ -71,6 +71,8 @@
                   >
                     SvelteKit
                   </div>
+                </li>
+                <li>
                   <div
                     class="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300"
                   >
@@ -118,7 +120,7 @@
                       ></span><span
                         >Small buisness blog
                         <span class="inline-block"
-                          >App<svg
+                          ><svg
                             xmlns="http://www.w3.org/2000/svg"
                             viewBox="0 0 20 20"
                             fill="currentColor"
@@ -191,7 +193,7 @@
                       ></span><span
                         >The great RGB guessing game
                         <span class="inline-block"
-                          >App<svg
+                          ><svg
                             xmlns="http://www.w3.org/2000/svg"
                             viewBox="0 0 20 20"
                             fill="currentColor"
