@@ -65,8 +65,7 @@
                 app has email verification. The frontend was built with Svelte
                 and deployed on Netlify. For the backend I used PocketBase and
                 deployed on Fly.io. This is by far my favorite tech-stack. Check
-                it out, you can register with a fake email and username to test
-                the features.
+                it out, you can register with a fake email to test the features.
               </p>
               <ul class="mt-2 flex flex-wrap" aria-label="Technologies used:">
                 <li class="mr-1.5 mt-2">
