@@ -59,10 +59,14 @@
                 >
               </h3>
               <p class="mt-2 text-sm leading-normal">
-                Lorem ipsum dolor sit, amet consectetur adipisicing elit. Rem
-                dicta aperiam ex quibusdam quam eum enim magni, voluptatum
-                repellat molestias, officia mollitia alias aliquam quod
-                deserunt? Neque nemo laudantium soluta.
+                This is an application for registering and allowing users to
+                sign in. Once signed in the user can update all of their
+                information to include name, avatar, email, and password. This
+                app has email verification. The frontend was built with Svelte
+                and deployed on Netlify. For the backend I used PocketBase and
+                deployed on Fly.io. This is by far my favorite tech-stack. Check
+                it out, you can register with a fake email and username to test
+                the features.
               </p>
               <ul class="mt-2 flex flex-wrap" aria-label="Technologies used:">
                 <li class="mr-1.5 mt-2">
@@ -137,10 +141,13 @@
                     >
                   </h3>
                   <p class="mt-2 text-sm leading-normal">
-                    Lorem ipsum dolor sit, amet consectetur adipisicing elit.
-                    Rem dicta aperiam ex quibusdam quam eum enim magni,
-                    voluptatum repellat molestias, officia mollitia alias
-                    aliquam quod deserunt? Neque nemo laudantium soluta.
+                    This is a site built for a small business that might want to
+                    reach customers with articles or blogs. The menu is a little
+                    different from the standard hamburger menu. It has an
+                    animated landing page with some graphics that I created
+                    using GIMP. The contact form is functional and I will
+                    receive messages there (probably not as fast as I would with
+                    an email). Check out the subtle color animation in the text.
                   </p>
                   <ul
                     class="mt-2 flex flex-wrap"
@@ -210,10 +217,11 @@
                     >
                   </h3>
                   <p class="mt-2 text-sm leading-normal">
-                    Lorem ipsum dolor sit, amet consectetur adipisicing elit.
-                    Rem dicta aperiam ex quibusdam quam eum enim magni,
-                    voluptatum repellat molestias, officia mollitia alias
-                    aliquam quod deserunt? Neque nemo laudantium soluta.
+                    This is a guessing game that is great for anyone that uses
+                    RGB color. It was built using pure HTML, CSS, and
+                    JavaScript. It is linked to my CodePen page because I really
+                    like being able to showcase the game as well as the logic.
+                    Give it a try and see where you RGB guessing skills are.
                   </p>
                   <ul
                     class="mt-2 flex flex-wrap"
