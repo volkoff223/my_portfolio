@@ -14,7 +14,15 @@
   </div>
   <div>
     <p
-      class="first-letter:float-left first-letter:text-8xl first-letter:text-teal-600 first-letter:pr-2 first-letter:font-bold mb-4"
+      class="first-letter:float-left
+      first-letter:text-7xl
+      first-letter:rounded-lg
+      first-letter:text-teal-300
+      first-letter:bg-teal-400/10
+      first-letter:font-medium
+      first-letter:p-2
+      first-letter:mr-2
+      mb-4"
     >
       Back in 2003 I joined the Navy straight out of high school. I’ve had a
       very exciting career from driving patrol boats in Iraq to teaching
@@ -25,7 +33,8 @@
       next adventure.
     </p>
     <p
-      class="first-letter:float-left first-letter:text-8xl first-letter:text-teal-600 first-letter:pr-2 first-letter:font-bold mb-4"
+      class="
+      mb-4"
     >
       My passion for writing code in 2015 when I started to learn the basics of
       HTML, CSS, and JavaScript. I found it fascinating that there were so many
@@ -37,7 +46,8 @@
       education through free and paid programs such as FreeCodeCamp and Udemy.
     </p>
     <p
-      class="first-letter:float-left first-letter:text-8xl first-letter:text-teal-600 first-letter:pr-2 first-letter:font-bold mb-4"
+      class="
+      mb-4"
     >
       I currently live in Chesapeake, VA with my wife of 21 years and my three
       beautiful children. When I am not writing code or solving coding
