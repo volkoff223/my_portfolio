@@ -3,6 +3,7 @@
   import About from "../components/About.svelte";
   import Experience from "../components/Experience.svelte";
   import Projects from "../components/Projects.svelte";
+  import Education from "../components/Education.svelte";
 </script>
 
 <div>
@@ -15,6 +16,7 @@
         <About />
         <Projects />
         <Experience />
+        <Education />
       </main>
     </div>
   </div>
