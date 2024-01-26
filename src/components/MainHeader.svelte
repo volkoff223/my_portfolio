@@ -2,7 +2,7 @@
   class="lg:sticky lg:top-0 lg:flex lg:max-h-screen lg:w-1/2 lg:flex-col lg:justify-between lg:py-24"
 >
   <div>
-    <h1 class="text-4xl font-bold tracking-tight text-slate-200 sm:text-5xl">
+    <h1 class="text-teal-300 text-4xl font-bold tracking-tight sm:text-5xl">
       <a href="/">Nicholas Voelker</a>
     </h1>
     <h2
