@@ -13,7 +13,9 @@
     </h2>
   </div>
   <div>
-    <p class="mb-4">
+    <p
+      class="first-letter:float-left first-letter:text-8xl first-letter:text-teal-600 first-letter:pr-2 first-letter:font-bold mb-4"
+    >
       Back in 2003 I joined the Navy straight out of high school. I’ve had a
       very exciting career from driving patrol boats in Iraq to teaching
       survival skills at the Navy’s SERE (Survival Evasion Resistance and
@@ -22,18 +24,21 @@
       fulfilled all of my goals in the Navy and I am now ready to move on to my
       next adventure.
     </p>
-    <p class="mb-4">
-      I developed a passion for writing code in 2015 when I started to learn the
-      basics of HTML, CSS, and JavaScript. I found it fascinating that there
-      were so many free resources on the internet and began to learn as much as
-      I could. This would lead me to enrolling in college and obtaining my
-      Associate’s degree in web publishing and eventually earning my Bachelor of
-      Science degree in Information Technology. I am still as passionate about
-      software development now as I was when I first started. I have continued
-      my education through free and paid programs such as FreeCodeCamp and
-      Udemy.
+    <p
+      class="first-letter:float-left first-letter:text-8xl first-letter:text-teal-600 first-letter:pr-2 first-letter:font-bold mb-4"
+    >
+      My passion for writing code in 2015 when I started to learn the basics of
+      HTML, CSS, and JavaScript. I found it fascinating that there were so many
+      free resources on the internet and began to learn as much as I could. This
+      would lead me to enrolling in college and obtaining my Associate’s degree
+      in web publishing and eventually earning my Bachelor of Science degree in
+      Information Technology. I am still as passionate about software
+      development now as I was when I first started. I have continued my
+      education through free and paid programs such as FreeCodeCamp and Udemy.
     </p>
-    <p class="mb-4">
+    <p
+      class="first-letter:float-left first-letter:text-8xl first-letter:text-teal-600 first-letter:pr-2 first-letter:font-bold mb-4"
+    >
       I currently live in Chesapeake, VA with my wife of 21 years and my three
       beautiful children. When I am not writing code or solving coding
       challenges I spend a lot of time on my boat with the family. I also like
