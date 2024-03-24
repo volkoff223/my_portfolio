@@ -13,7 +13,7 @@
     class="sticky top-0 z-20 -mx-6 mb-4 w-screen bg-slate-900/75 px-6 py-5 backdrop-blur md:-mx-12 md:px-12 lg:sr-only lg:relative lg:top-auto lg:mx-auto lg:w-full lg:px-0 lg:py-0 lg:opacity-0"
   >
     <h2
-      class="text-sm font-bold uppercase tracking-widest text-slate-200 lg:sr-only"
+      class="text-lg font-bold uppercase tracking-widest text-slate-200 lg:sr-only"
     >
       Projects
     </h2>
@@ -218,15 +218,17 @@
                         >
                       </h3>
                       <p class="mt-2 text-sm leading-normal">
-                        My wife was having to manually collect data from a
-                        website for her job. The task would take hours and she
-                        asked if I could help. I built this web scraper with
-                        Python, Selenium, Tkinter, and Pandas. Tkinter handled
-                        the user interface that was easy for her to enter the
-                        credentials to log in. Selenium navigated through the
-                        website and located the data that needed to be
-                        retrieved. Pandas was used to clean the data and return
-                        it in a HTML document.
+                        My wife grew tired of manually gathering data from a
+                        website and assembling it into a spreadsheet for her
+                        job. The task consumed hours of her time, prompting her
+                        to seek my assistance. In response, I developed a web
+                        scraper tailored to her needs. Tkinter facilitated the
+                        creation of a user-friendly interface, simplifying the
+                        process of entering login credentials. Selenium
+                        efficiently navigated the website and extracted the
+                        necessary data. Lastly, Pandas proved invaluable for
+                        data cleaning and formatting, ultimately generating an
+                        HTML document for easy access and analysis.
                       </p>
                       <ul
                         class="mt-2 flex flex-wrap"

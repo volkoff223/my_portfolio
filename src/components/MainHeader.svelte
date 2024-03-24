@@ -1,7 +1,16 @@
+<script>
+  import profilePic from "$lib/assets/profilePic.png";
+</script>
+
 <header
   class="lg:sticky lg:top-0 lg:flex lg:max-h-screen lg:w-1/2 lg:flex-col lg:justify-between lg:py-24"
 >
   <div>
+    <div class="avatar">
+      <div class="w-24 mask mask-squircle">
+        <img alt="profile pic" src={profilePic} />
+      </div>
+    </div>
     <h1 class="text-teal-300 text-4xl font-bold tracking-tight sm:text-5xl">
       <a href="/">Nicholas Voelker</a>
     </h1>
@@ -11,14 +20,11 @@
       Exceptional ability to design, program, build, deploy and maintain
       software using many different skills and tools.
     </h2>
-    <p class="mt-4 max-w-xs leading-normal">
-      Highly motivated professional with more than 21 years experience in
-      leading, managing and collaboration in the United States Navy.
-    </p>
-    <!-- ! Need to fix nav item focus -->
-
+  </div>
+  <!-- ! Need to fix nav item focus -->
+  <div>
     <nav class="nav hidden lg:block" aria-label="In-page jump links">
-      <ul class="mt-16 w-max">
+      <ul class="mt-6 w-max">
         <li>
           <a class="group flex items-center py-3" href="#about"
             ><span
@@ -52,7 +58,8 @@
       </ul>
     </nav>
   </div>
-  <ul class="ml-1 mt-8 flex items-center" aria-label="Social media">
+
+  <ul class="ml-1 mt-4 flex items-center" aria-label="Social media">
     <li class="mr-5 text-xs">
       <a
         class="block hover:text-slate-200"

@@ -7,7 +7,7 @@
     class="sticky top-0 z-20 -mx-6 mb-4 w-screen bg-slate-900/75 px-6 py-5 backdrop-blur md:-mx-12 md:px-12 lg:sr-only lg:relative lg:top-auto lg:mx-auto lg:w-full lg:px-0 lg:py-0 lg:opacity-0"
   >
     <h2
-      class="text-sm font-bold uppercase tracking-widest text-slate-200 lg:sr-only"
+      class="text-lg font-bold uppercase tracking-widest text-slate-200 lg:sr-only"
     >
       About
     </h2>
@@ -24,19 +24,7 @@
       first-letter:mr-2
       mb-4"
     >
-      Back in 2003 I joined the Navy straight out of high school. I’ve had a
-      very exciting career from driving patrol boats in Iraq to teaching
-      survival skills at the Navy’s SERE (Survival Evasion Resistance and
-      Escape) school and working on the latest geolocation tools for the Navy
-      SEALs at DEVGRU (Naval Special Warfare Development Group). I have
-      fulfilled all of my goals in the Navy and I am now ready to move on to my
-      next adventure.
-    </p>
-    <p
-      class="
-      mb-4"
-    >
-      My passion for writing code in 2015 when I started to learn the basics of
+      My passion for writing code started in 2015 when I to learn the basics of
       HTML, CSS, and JavaScript. I found it fascinating that there were so many
       free resources on the internet and began to learn as much as I could. This
       would lead me to enrolling in college and obtaining my Associate’s degree
@@ -44,6 +32,17 @@
       Information Technology. I am still as passionate about software
       development now as I was when I first started. I have continued my
       education through free and paid programs such as FreeCodeCamp and Udemy.
+    </p>
+    <p
+      class="
+  mb-4"
+    >
+      I joined the Navy straight out of high school and I’ve had a very exciting
+      career from driving patrol boats in Iraq to teaching survival skills at
+      the Navy’s SERE (Survival Evasion Resistance and Escape) school and
+      working on the latest geolocation tools for the Navy SEALs at DEVGRU
+      (Naval Special Warfare Development Group). I have fulfilled all of my
+      goals in the Navy and I am now ready to move on to my next adventure.
     </p>
     <p
       class="
