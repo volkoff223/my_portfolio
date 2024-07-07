@@ -24,14 +24,13 @@
       first-letter:mr-2
       mb-4"
     >
-      My passion for writing code started in 2015 when I to learn the basics of
-      HTML, CSS, and JavaScript. I found it fascinating that there were so many
-      free resources on the internet and began to learn as much as I could. This
-      would lead me to enrolling in college and obtaining my Associate’s degree
-      in web publishing and eventually earning my Bachelor of Science degree in
-      Information Technology. I am still as passionate about software
-      development now as I was when I first started. I have continued my
-      education through free and paid programs such as FreeCodeCamp and Udemy.
+      My passion for writing code started in 2015 when I started learning the
+      basics of HTML, CSS, and JavaScript. I found it fascinating that there
+      were so many free resources on the internet and began to learn as much as
+      I could. This would lead me to enrolling in college and obtaining my
+      Associate’s degree in web publishing and eventually earning my Bachelor of
+      Science degree in Information Technology. I am still as passionate about
+      software development now as I was when I first started.
     </p>
     <p
       class="
@@ -39,10 +38,10 @@
     >
       I joined the Navy straight out of high school and I’ve had a very exciting
       career from driving patrol boats in Iraq to teaching survival skills at
-      the Navy’s SERE (Survival Evasion Resistance and Escape) school and
-      working on the latest geolocation tools for the Navy SEALs at DEVGRU
-      (Naval Special Warfare Development Group). I have fulfilled all of my
-      goals in the Navy and I am now ready to move on to my next adventure.
+      the Navy’s SERE (Survival Evasion Resistance and Escape) school to working
+      on the latest geolocation tools for the Navy SEALs at DEVGRU (Naval
+      Special Warfare Development Group). I have fulfilled all of my goals in
+      the Navy and I am now ready to move on to my next adventure.
     </p>
     <p
       class="

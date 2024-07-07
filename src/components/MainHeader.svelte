@@ -21,7 +21,7 @@
       software using many different skills and tools.
     </h2>
   </div>
-  <!-- ! Need to fix nav item focus -->
+  <!-- ! Use intersection observer to fix nav item focus -->
   <div>
     <nav class="nav hidden lg:block" aria-label="In-page jump links">
       <ul class="mt-6 w-max">
