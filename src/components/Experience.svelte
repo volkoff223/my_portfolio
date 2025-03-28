@@ -31,7 +31,7 @@
             class="z-10 mb-2 mt-1 text-xs font-semibold uppercase tracking-wide text-slate-500 sm:col-span-2"
             aria-label="2021 to Present"
           >
-            2021 — Present
+            2021 — 2024
           </header>
           <div class="z-10 sm:col-span-6">
             <h3 class="font-medium leading-snug text-slate-200">
