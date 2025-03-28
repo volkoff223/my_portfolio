@@ -40,8 +40,7 @@
       career from driving patrol boats in Iraq to teaching survival skills at
       the Navy’s SERE (Survival Evasion Resistance and Escape) school to working
       on the latest geolocation tools for the Navy SEALs at DEVGRU (Naval
-      Special Warfare Development Group). I have fulfilled all of my goals in
-      the Navy and I am now ready to move on to my next adventure.
+      Special Warfare Development Group).
     </p>
     <p
       class="
@@ -61,6 +60,11 @@
     <p class="font-bold">
       Associate of Science in Web Publishing <span class="text-slate-500"
         >— American Public University System</span
+      >
+    </p>
+    <p class="font-bold">
+      Security+ Certified <span class="text-slate-500"
+        >— CompTIA</span
       >
     </p>
   </div>
