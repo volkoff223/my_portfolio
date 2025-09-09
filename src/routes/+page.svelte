@@ -1,7 +1,7 @@
 <script>
   import MainHeader from "../components/MainHeader.svelte";
   import About from "../components/About.svelte";
-  import Experience from "../components/Experience.svelte";
+  import Experience from "../components/Experience.md";
   import Projects from "../components/Projects.svelte";
   import Education from "../components/Education.svelte";
 </script>
