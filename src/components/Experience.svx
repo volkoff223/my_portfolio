@@ -1,3 +1,4 @@
+<div class="prose max-w-none">
 # Nicholas Voelker
 
 Chesapeake, VA | volkoff223@gmail.com | 619-606-5945 | www.nickvoelker.xyz
@@ -79,3 +80,4 @@ Results-driven Linux and OpenShift platform engineer with 21 years of military e
 - Scientific Computing with Python (2024)
 - JavaScript Algorithms and Data Structures (2019)
 - Responsive Web Design (2018)
+</div>
