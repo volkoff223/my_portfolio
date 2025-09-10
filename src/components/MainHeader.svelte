@@ -22,14 +22,13 @@
     </h2>
   </div>
   <div id="RHCSAbadge" width="150" height="150">
-    <a target="_blank" href="https://www.credly.com/badges/6b055c1e-a94d-47b2-996f-878a73b7c02a/embedded"><img width="150" height="150" alt="" src="https://images.credly.com/images/572de0ba-2c59-4816-a59d-b0e1687e45ee/image.png">
+    <a width="150" height="150" target="_blank" href="https://www.credly.com/badges/6b055c1e-a94d-47b2-996f-878a73b7c02a/embedded"><img width="150" height="150" alt="" src="https://images.credly.com/images/572de0ba-2c59-4816-a59d-b0e1687e45ee/image.png">
     </a>
   </div>
   <div id="CompTIAbadge" width="150" height="150">
-    <a target="_blank" href="https://www.credly.com/badges/c3811021-8445-4a03-af10-57725851c130/embedded"><img width="150" height="150" alt="" src="https://images.credly.com/images/80d8a06a-c384-42bf-ad36-db81bce5adce/blob">
+    <a width="150" height="150" target="_blank" href="https://www.credly.com/badges/c3811021-8445-4a03-af10-57725851c130/embedded"><img width="150" height="150" alt="" src="https://images.credly.com/images/80d8a06a-c384-42bf-ad36-db81bce5adce/blob">
     </a>
   </div>
-  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="c3811021-8445-4a03-af10-57725851c130" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
   <!-- ! Use intersection observer to fix nav item focus -->
   <div>
     <nav class="nav hidden lg:block" aria-label="In-page jump links">
