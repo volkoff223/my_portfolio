@@ -21,6 +21,8 @@
       software using many different skills and tools.
     </h2>
   </div>
+  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="6b055c1e-a94d-47b2-996f-878a73b7c02a" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="c3811021-8445-4a03-af10-57725851c130" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
   <!-- ! Use intersection observer to fix nav item focus -->
   <div>
     <nav class="nav hidden lg:block" aria-label="In-page jump links">
