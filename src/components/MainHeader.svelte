@@ -21,7 +21,11 @@
       software using many different skills and tools.
     </h2>
   </div>
-  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="6b055c1e-a94d-47b2-996f-878a73b7c02a" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+  <div id="badge">
+    <a target="_blank" href="https://www.credly.com/badges/6b055c1e-a94d-47b2-996f-878a73b7c02a/embedded"><img width="105" height="105" alt="" src="https://images.credly.com/images/572de0ba-2c59-4816-a59d-b0e1687e45ee/image.png">
+    <span id="badge-name">Red Hat Certifie…</span>
+    </a>
+  </div>
   <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="c3811021-8445-4a03-af10-57725851c130" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
   <!-- ! Use intersection observer to fix nav item focus -->
   <div>
