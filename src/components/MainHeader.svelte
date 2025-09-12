@@ -21,6 +21,14 @@
       scalable infrastructure.
     </h2>
   </div>
+  <a
+    href="/resume.pdf"
+    class="btn rounded-full bg-teal-400/10 px-3 py-1 leading-5 text-teal-300"
+    download
+  >
+    Download Resume PDF
+  </a>
+
   <ul class="ml-1 mt-4 flex items-center" aria-label="Badges">
     <li class="flex-auto" id="RHCSAbadge" width="150" height="150">
       <a
