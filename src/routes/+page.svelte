@@ -8,14 +8,14 @@
 
 <div>
   <div
-    class="mx-auto min-h-screen max-w-screen-xl px-6 py-12 font-sans md:px-12 md:py-20 lg:px-24 lg:py-0"
+    class="mx-auto min-h-screen max-w-9/10 px-6 py-12 font-sans md:px-12 md:py-20 lg:px-24 lg:py-0"
   >
-    <div class="lg:flex lg:justify-between lg:gap-4">
+    <div class="lg:flex lg:justify-between lg:gap-10">
       <MainHeader />
-      <main id="content" class="pt-24 lg:w-1/2 lg:py-24">
+      <main id="content" class="pt-24 lg:w-3/4 lg:py-24">
         <About />
         <Projects />
-        <div class="prose">
+        <div id="experience" class="prose max-w-none">
           <Experience />
         </div>
         <Education />

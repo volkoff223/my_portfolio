@@ -3,32 +3,54 @@
 </script>
 
 <header
-  class="lg:sticky lg:top-0 lg:flex lg:max-h-screen lg:w-1/2 lg:flex-col lg:justify-between lg:py-24"
+  class="lg:sticky lg:top-0 lg:flex lg:max-h-screen lg:w-1/4 lg:flex-col lg:justify-between lg:py-24"
 >
   <div>
-    <div class="avatar">
+    <!-- <div class="avatar">
       <div class="w-24 mask mask-squircle">
         <img alt="profile pic" src={profilePic} />
       </div>
-    </div>
+    </div> -->
     <h1 class="text-teal-300 text-4xl font-bold tracking-tight sm:text-5xl">
       <a href="/">Nicholas Voelker</a>
     </h1>
     <h2
       class="mt-3 text-lg font-medium tracking-tight text-slate-200 sm:text-xl"
     >
-      Exceptional ability to design, program, build, deploy and maintain
-      software using many different skills and tools.
+      Linux & OpenShift engineer focused on containerization, automation, and
+      scalable infrastructure.
     </h2>
   </div>
-  <div id="RHCSAbadge" width="150" height="150">
-    <a width="150" height="150" target="_blank" href="https://www.credly.com/badges/6b055c1e-a94d-47b2-996f-878a73b7c02a/embedded"><img width="150" height="150" alt="" src="https://images.credly.com/images/572de0ba-2c59-4816-a59d-b0e1687e45ee/image.png">
-    </a>
-  </div>
-  <div id="CompTIAbadge" width="150" height="150">
-    <a width="150" height="150" target="_blank" href="https://www.credly.com/badges/c3811021-8445-4a03-af10-57725851c130/embedded"><img width="150" height="150" alt="" src="https://images.credly.com/images/80d8a06a-c384-42bf-ad36-db81bce5adce/blob">
-    </a>
-  </div>
+  <ul class="ml-1 mt-4 flex items-center" aria-label="Badges">
+    <li class="flex-auto" id="RHCSAbadge" width="150" height="150">
+      <a
+        width="150"
+        height="150"
+        target="_blank"
+        href="https://www.credly.com/badges/6b055c1e-a94d-47b2-996f-878a73b7c02a/embedded"
+        ><img
+          width="150"
+          height="150"
+          alt=""
+          src="https://images.credly.com/images/572de0ba-2c59-4816-a59d-b0e1687e45ee/image.png"
+        />
+      </a>
+    </li>
+    <li class="flex-auto" id="CompTIAbadge" width="150" height="150">
+      <a
+        width="150"
+        height="150"
+        target="_blank"
+        href="https://www.credly.com/badges/c3811021-8445-4a03-af10-57725851c130/embedded"
+        ><img
+          width="150"
+          height="150"
+          alt=""
+          src="https://images.credly.com/images/80d8a06a-c384-42bf-ad36-db81bce5adce/blob"
+        />
+      </a>
+    </li>
+  </ul>
   <!-- ! Use intersection observer to fix nav item focus -->
   <div>
     <nav class="nav hidden lg:block" aria-label="In-page jump links">

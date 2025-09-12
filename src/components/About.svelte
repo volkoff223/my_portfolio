@@ -24,48 +24,33 @@
       first-letter:mr-2
       mb-4"
     >
-      My passion for writing code started in 2015 when I started learning the
-      basics of HTML, CSS, and JavaScript. I found it fascinating that there
-      were so many free resources on the internet and began to learn as much as
-      I could. This would lead me to enrolling in college and obtaining my
-      Associate’s degree in web publishing and eventually earning my Bachelor of
-      Science degree in Information Technology. I am still as passionate about
-      software development now as I was when I first started.
+      I am a Linux and containerization enthusiast with a strong focus on Red
+      Hat Enterprise Linux, Kubernetes, and OpenShift. My passion lies in
+      automating complex infrastructure and enabling scalable, reliable
+      application delivery through modern DevOps practices. Over the years, I’ve
+      developed deep expertise in system administration, container
+      orchestration, and CI/CD automation, and I enjoy building solutions that
+      reduce manual effort while improving security and performance.
     </p>
     <p
       class="
   mb-4"
     >
-      I joined the Navy straight out of high school and I’ve had a very exciting
-      career from driving patrol boats in Iraq to teaching survival skills at
-      the Navy’s SERE (Survival Evasion Resistance and Escape) school to working
-      on the latest geolocation tools for the Navy SEALs at DEVGRU (Naval
-      Special Warfare Development Group).
+      My career began in the U.S. Navy, where I gained over two decades of
+      experience in high-pressure, mission-critical environments. From operating
+      patrol boats in Iraq to teaching survival skills at SERE school, and later
+      supporting advanced geolocation platforms for Naval Special Warfare, I
+      learned the importance of precision, resilience, and continuous
+      improvement—qualities I now apply to every technical challenge.
     </p>
     <p
       class="
       mb-4"
     >
-      I currently live in Chesapeake, VA with my wife of 21 years and my three
-      beautiful children. When I am not writing code or solving coding
-      challenges I spend a lot of time on my boat with the family. I also like
-      to polish my skills as an novice horticulturist and self taught auto
-      mechanic.
-    </p>
-    <p class="font-bold">
-      Bachelor of Science in Information Technology <span class="text-slate-500"
-        >— American Public University System</span
-      >
-    </p>
-    <p class="font-bold">
-      Associate of Science in Web Publishing <span class="text-slate-500"
-        >— American Public University System</span
-      >
-    </p>
-    <p class="font-bold">
-      Security+ Certified <span class="text-slate-500"
-        >— CompTIA</span
-      >
+      Today I live in Chesapeake, VA with my wife and three children. When I’m
+      not exploring the latest in Linux, Kubernetes, or cloud automation, you’ll
+      often find me on the water with my family, experimenting with
+      horticulture, or turning a wrench as a self-taught auto mechanic.
     </p>
   </div>
 </section>
