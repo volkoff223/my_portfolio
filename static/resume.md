@@ -1,17 +1,3 @@
----
-title: "Nicholas Voelker - Resume"
-author: "Nicholas Voelker"
-date: "2024"
-geometry: margin=1in
-fontfamily: roboto
-fontsize: 11pt
-urlcolor: blue
-linkcolor: blue
-header-includes:
-  - \usepackage{fontspec}
-  - \setmainfont{Roboto}
----
-
 # Nicholas Voelker
 
 Chesapeake, VA | volkoff223@gmail.com | 619-606-5945 | www.nickvoelker.xyz
