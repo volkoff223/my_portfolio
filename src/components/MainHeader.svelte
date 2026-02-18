@@ -30,6 +30,20 @@
   </a>
 
   <ul class="ml-1 mt-4 flex items-center" aria-label="Badges">
+    <li class="flex-auto" id="RHCEAbadge" width="150" height="150">
+      <a
+        width="150"
+        height="150"
+        target="_blank"
+        href="https://www.credly.com/badges/11983627-1ee4-4965-a49d-87e0d0bbbf8d/embedded"
+        ><img
+          width="150"
+          height="150"
+          alt=""
+          src="https://images.credly.com/images/19c4e804-54fe-4857-b022-7cfd5520596c/image.png"
+        />
+      </a>
+    </li>
     <li class="flex-auto" id="RHCSAbadge" width="150" height="150">
       <a
         width="150"
