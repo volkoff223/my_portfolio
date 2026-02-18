@@ -2,36 +2,48 @@
 
 Chesapeake, VA | volkoff223@gmail.com | 619-606-5945 | www.nickvoelker.xyz
 
-Results-driven Linux and OpenShift platform engineer with 21 years of military experience. Skilled in RHEL, OpenShift, Kubernetes, and Ansible, with expertise in automating deployments, containerized application delivery, and system hardening. Adept at managing virtualized and cloud-native environments, integrating secure authentication systems, and ensuring compliance in classified, mission-critical operations. Proven track record of optimizing performance, reducing manual workloads, and enhancing system security across large-scale deployments.
+Results-driven system administrator, software developer, and systems analyst with 21 years of military experience. Expertise in enterprise system integration, full-stack development, and database administration. Adept at administering Red Hat Enterprise Linux (RHEL) systems and OpenShift clusters, automating deployments with Ansible and shell scripting, and enforcing security compliance. Proven track record of optimizing performance, reducing manual workloads, and ensuring compliance in classified, mission-critical environments.
 
 ## TECHNICAL SKILLS
 
-- **System Administration & Automation:** Red Hat Enterprise Linux (RHEL), Red Hat Certified System Administrator (RHCSA), OpenShift Container Platform, Kubernetes, Ansible, Docker, Podman, Bash scripting, system provisioning, patch management, configuration management  
-- **Security & Compliance:** TS/SCI Clearance, CompTIA Security+, SELinux, firewalld, system hardening, vulnerability remediation, compliance enforcement (CIS benchmarks, STIGs)  
-- **Monitoring & Infrastructure:** Prometheus, Grafana, system performance tuning, capacity planning, log analysis, troubleshooting, high availability systems  
-- **Programming & Development:** Python, Go, JavaScript, HTML, CSS, React, SvelteKit, Astro, Bootstrap, full-stack application development  
-- **Database Systems:** MySQL, MongoDB, Firebase, PocketBase, database design, administration, and optimization  
-- **Development Tools & Collaboration:** Git, CI/CD pipelines, Agile methodologies, Figma, Photoshop, GIMP, Adobe XD  
+- **Certifications:** Red Hat Certified Engineer, Red Hat Certified System Administrator, CompTIA Security+
+- **System Administration & Automation:** Red Hat Enterprise Linux (RHEL), SELinux, systemd, yum/dnf, RPM, Kickstart, OpenShift, Proxmox, Ansible, Bash, SSH, Git, VIM
+- **Languages & Frameworks:** Python, Go, JavaScript, HTML, CSS, Bootstrap, React, SvelteKit, Astro
+- **Database Systems:** MySQL, MongoDB, Firebase, PocketBase
+- **Security & Compliance:** TS/SCI Clearance, Cyber Tasking Orders (CTO) patching, OSHA 10 Hour Maritime Industry Course
 
 ## PROFESSIONAL EXPERIENCE
 
-### OpenShift Administrator
+### **Programmer Senior**
 
-**U.S. Navy / Defense Contractor — Various Naval Vessels** (2024-Current)
+***General Dynamics Information Technology*** (2025-Present)
 
-- Configured, deployed, and managed the Agile Core Services (ACS) platform, an OpenShift-based application infrastructure deployed across U.S. Navy vessels.
-- Administered and optimized OpenShift clusters running on 24 Red Hat Enterprise Linux (RHEL) virtual machines, supporting application delivery, authentication, geospatial mapping, and relational databases.
-- Maintained, troubleshot, and secured Linux servers, ensuring high availability, system hardening, and compliance with security standards.
-- Automated provisioning, patching, and configuration management tasks using Ansible, reducing manual effort and improving reliability.
-- Supported containerized applications in OpenShift, ensuring smooth integration with the platform and underlying infrastructure.
-- Implemented authentication, authorization, and single sign-on (SSO) solutions with ForgeRock (Ping Identity) and Active Directory integration.
-- Monitored and tuned system performance using Prometheus, Grafana, and other monitoring tools to proactively detect and resolve issues.
-- Applied patch management, vulnerability remediation, and compliance enforcement in accordance with Navy cybersecurity requirements.
-- Facilitated delivery of applications via Application Arsenal, a secure shipboard repository and marketplace for mission software. 
+- Supported operation, maintenance, and troubleshooting of carry-on signals intelligence (SIGINT) systems aboard U.S. Navy vessels, performing the majority of tasks on RHEL and Red Hat–compatible Linux systems.
+- Installed, configured, tested, and repaired servers, switches, Proxmox hypervisors, PXE-boot servers, workstations, and collection appliances.
+- Automated provisioning and configuration using Ansible, PXE workflows, Kickstart, and shell scripting to build Proxmox and RHEL hosts.
+- Applied security configurations and CTO-directed patching and vulnerability remediation to maintain compliance.
+- Performed system integration and interoperability testing; validated end-to-end data flows across collection, processing, and workstation servers.
+- Authored technical documentation and standard operating procedures, and executed release testing for new software versions.
+- Collaborated with NSA, U.S. Navy personnel, government stakeholders, and contractors to resolve complex issues and prioritize capability enhancements.
 
-### Software Developer
 
-**Early Education Business Consultants** (2024)
+
+
+### **OpenShift Administrator**
+
+***Predicate Logic Inc*** (2024-2025)
+
+- Responsible for the configuration and management of the Agile Core Services (ACS) system installed on numerous U.S. Navy vessels.
+- Deployed, configured, and managed OpenShift (Kubernetes) clusters and Red Hat Enterprise Linux-based virtualized environments.
+- Maintained, troubleshot, and optimized Linux servers to ensure high availability and security.
+- Automated system administration tasks using Ansible (e.g., provisioning, patching, configuration management).
+- Monitored system performance and logs using tools like Prometheus, Grafana, and other monitoring solutions.
+- Applied security best practices, including patch management, vulnerability remediation, and compliance enforcement.
+- Supported containerized applications within OpenShift, ensuring smooth integration with the infrastructure.
+
+### **Software Developer**
+
+***Early Education Business Consultants*** (2024)
 
 - Architected and developed full-stack application processing large-scale CSV data sets utilizing REST APIs.
 - Implemented automated payment tracking system that recovered thousands in missed revenue for 4 client companies through automated notification algorithms.
@@ -39,9 +51,9 @@ Results-driven Linux and OpenShift platform engineer with 21 years of military e
 - Designed intuitive dashboard interface for data visualization and user alerts.
 - Technologies used: JavaScript, Python, SvelteKit, Pocketbase, VBA, SQLite, HTML, CSS.
 
-### Navigation Division Manager
+### **Navigation Division Manager**
 
-**U.S. Navy** (2017-2024)
+***U.S. Navy*** (2017-2024)
 
 - Administered Salesforce database for 300+ users, including security permissions, custom function development, and automated reporting systems.
 - Led technical training programs for electronic navigation systems (COGENT) and Garmin radar platforms.
@@ -49,9 +61,9 @@ Results-driven Linux and OpenShift platform engineer with 21 years of military e
 - Developed custom Excel-based performance tracking system with dashboard integration.
 - Managed decommissioning of naval vessel, coordinating with NAVSEA and technical contractors.
 
-### Technical Project Manager
+### **Technical Project Manager**
 
-**U.S. Navy** (2013-2017)
+***U.S. Navy*** (2013-2017)
 
 - Managed classified development projects in collaboration with NSA, FBI, and CIA.
 - Developed and tested geo-location systems utilizing satellite communications.
@@ -59,9 +71,9 @@ Results-driven Linux and OpenShift platform engineer with 21 years of military e
 - Conducted extensive field testing of hardware systems in extreme conditions.
 - Coordinated cross-agency technical teams and stakeholder communications.
 
-### Instructor | Quartermaster
+### **Instructor | Quartermaster**
 
-**U.S. Navy** (2003-2013)
+***U.S. Navy*** (2003-2013)
 
 - Master Training Specialist and Survival, Evasion, Resistance, and Escape instructor.
 - Riverine Assault Boat operator.
@@ -72,10 +84,8 @@ Results-driven Linux and OpenShift platform engineer with 21 years of military e
 - **B.S. Information Technology** - American Public University System (2020)
 - **A.S. Web Publishing** - American Public University System (2017)
 
-## CERTIFICATIONS
+## OTHER CERTIFICATIONS
 
-- Red Hat Certified System Administrator (2025)
-- CompTIA Security+ (2025)
 - Scientific Computing with Python (2024)
 - JavaScript Algorithms and Data Structures (2019)
 - Responsive Web Design (2018)
